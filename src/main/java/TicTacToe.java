@@ -1,9 +1,7 @@
-package com.geekbrains;
-
 import java.util.Random;
 import java.util.Scanner;
 
-public class KrestiNuli {
+public class TicTacToe {
     private static final int SIZE = 10;
     private static final int DOTS_TO_WIN = 7;
     private static final char DOT_EMPTY = '.';
